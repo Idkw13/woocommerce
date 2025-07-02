@@ -7,7 +7,7 @@ export function TopBar() {
         <div className="w-full min-w-0 flex flex-col lg:flex-row items-center lg:items-center justify-center lg:justify-start gap-2 md:gap-2 lg:gap-3 text-center lg:text-left flex-wrap">
           <span className="flex items-center gap-2 group">
             <MapPin className="w-5 h-5 transition-transform group-hover:scale-110 group-hover:text-yellow-300" />
-            <span className="font-semibold whitespace-nowrap">Львів, 'Личаківська 104</span>
+            <span className="font-semibold whitespace-nowrap">Львів, Личаківська 104</span>
           </span>
           <span className="hidden lg:inline text-white/30 text-lg">•</span>
           <span className="flex items-center gap-2 group">
