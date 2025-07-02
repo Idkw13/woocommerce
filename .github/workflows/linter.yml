@@ -1,6 +1,9 @@
 name: Linter
 
-on: [push]
+on:
+  pull_request:
+    branches: [main]
+
 
 jobs:
   lint:  # You must name the job (e.g. "lint")

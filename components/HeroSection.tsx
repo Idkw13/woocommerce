@@ -40,13 +40,13 @@ export function HeroSection() {
                                     <div>
                                         <DialogTitle className="text-2xl font-bold text-green-700 mb-1">Залишити
                                             заявку</DialogTitle>
-                                        <DialogDescription className="text-gray-500 text-base">Ми зв'яжемося з вами
+                                        <DialogDescription className="text-gray-500 text-base">Ми зв&#39;яжемося з вами
                                             найближчим часом</DialogDescription>
                                     </div>
                                 </DialogHeader>
                                 <form className="space-y-6">
                                     <div className="space-y-2">
-                                        <Label htmlFor="name" className="text-base text-black">Ваше ім'я</Label>
+                                        <Label htmlFor="name" className="text-base text-black">Ваше ім&#39;я</Label>
                                         <Input id="name" name="name" placeholder="Введіть ім'я"
                                                className="rounded-xl border-gray-200 focus:border-green-600 focus:ring-2 focus:ring-green-100 text-base"/>
                                     </div>

@@ -5,7 +5,7 @@ export function StatisticsSection() {
             <div className="grid md:grid-cols-4 gap-8 text-center">
                 <div className="bg-green-50 rounded-xl p-8 shadow">
                     <div className="text-3xl font-extrabold text-green-700 mb-2">562</div>
-                    <div className="text-black">Виконаних об'єктів</div>
+                    <div className="text-black">Виконаних об&#39;єктів</div>
                 </div>
                 <div className="bg-blue-50 rounded-xl p-8 shadow">
                     <div className="text-3xl font-extrabold text-blue-700 mb-2">1832</div>

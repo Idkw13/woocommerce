@@ -17,7 +17,7 @@ export function ReviewsSection() {
                 <div className="bg-white rounded-xl shadow p-8 flex flex-col">
                     <span className="font-semibold text-black mb-2">Роман Газда</span>
                     <span className="text-yellow-400 text-lg mb-2">★★★★★</span>
-                    <span className="text-gray-700">Рекомендую "Termoplast". Все якісно, швидко, сервіс на найвищому рівні!</span>
+                    <span className="text-gray-700">Рекомендую &#34;Termoplast&#34;. Все якісно, швидко, сервіс на найвищому рівні!</span>
                 </div>
             </div>
         </section>

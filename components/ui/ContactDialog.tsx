@@ -48,7 +48,7 @@ export function ContactDialog({
                     </DialogHeader>
                     <form className="space-y-6">
                         <div className="space-y-2">
-                            <Label htmlFor="name" className="text-base text-black">Ваше ім'я</Label>
+                            <Label htmlFor="name" className="text-base text-black">Ваше ім&#39;я</Label>
                             <Input id="name" name="name" placeholder="Введіть ім'я" required
                                    className="rounded-xl border-gray-200 focus:border-green-600 focus:ring-2 focus:ring-green-100 text-base"/>
                         </div>
