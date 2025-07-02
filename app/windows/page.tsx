@@ -1,4 +1,4 @@
-import { CategoryGrid } from "../../components/sections/CategoryGrid";
+import { CategoryGrid } from "@/components";
 
 const categories = [
   { slug: "wds", name: "Вікна WDS" },

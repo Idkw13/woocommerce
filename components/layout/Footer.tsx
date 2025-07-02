@@ -1,9 +1,6 @@
 import { 
-  Shield, 
-  MapPin, 
   Clock, 
   Phone, 
-  Mail, 
   Instagram, 
   Facebook 
 } from 'lucide-react';
