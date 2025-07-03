@@ -12,11 +12,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="uk">
       <body className={inter.className + ' bg-gray-50 text-black'}>
         <TopBar />
-        <Header />
-        <main className="container mx-auto px-4 py-8 min-h-screen">
-          {children}
-        </main>
-        <Footer />
+        {/*<Header />*/}
+        {/*<main className="container mx-auto px-4 py-8 min-h-screen">*/}
+        {/*  {children}*/}
+        {/*</main>*/}
+        {/*<Footer />*/}
       </body>
     </html>
   );
